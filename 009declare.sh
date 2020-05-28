@@ -1,0 +1,1 @@
+declare -x test=123
