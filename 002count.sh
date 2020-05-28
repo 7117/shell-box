@@ -1,3 +1,4 @@
+#计算的题目
 num1=$1
 num2=$2
 
@@ -7,6 +8,7 @@ echo $sum
 
 
 
-
-#[root@localhost shell]# sh count.sh 1 2
+#
+#[root@localhost shellCollection]# sh 002count.sh 1 2
 #3
+#[root@localhost shellCollection]#
