@@ -1,0 +1,1 @@
+#[root@localhost shellCollection]# sed -i 's/heel//g' stu2.txt
