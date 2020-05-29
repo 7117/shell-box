@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/025.awk.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/026.awk.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/028.awk end.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cXbCnjhdVkm09hKduDjFRDwa48" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590726008037</updated>
-      <workItem from="1590726011491" duration="4866000" />
+      <workItem from="1590726011491" duration="5136000" />
     </task>
     <servers />
   </component>
