@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/041.wc.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/042.sort.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/043.[].sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/044.[] &amp;&amp;.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/044.[] sanyuan.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/039.sed s.sh" beforeDir="false" afterPath="$PROJECT_DIR$/040.sed s.sh" afterDir="false" />
-    </list>
+    <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590726008037</updated>
-      <workItem from="1590726011491" duration="9792000" />
+      <workItem from="1590726011491" duration="10462000" />
     </task>
     <task id="LOCAL-00001" summary="sed">
       <created>1590751943530</created>
@@ -71,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590751943530</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&amp;&amp;">
+      <created>1590754283919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590754283919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sed" />
-    <option name="LAST_COMMIT_MESSAGE" value="sed" />
+    <MESSAGE value="&amp;&amp;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&amp;&amp;" />
   </component>
 </project>
