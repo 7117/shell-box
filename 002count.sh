@@ -8,7 +8,6 @@ echo $sum
 
 
 
-#
-#[root@localhost shellCollection]# sh 002count.sh 1 2
+
+#[root@localhost shell]# sh count.sh 1 2
 #3
-#[root@localhost shellCollection]#
