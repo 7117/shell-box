@@ -25,6 +25,11 @@
     <file url="file://$PROJECT_DIR$/038.sed -n.sh" charset="GBK" />
     <file url="file://$PROJECT_DIR$/038.sed rows.sh" charset="GBK" />
     <file url="file://$PROJECT_DIR$/039.sed e.sh" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/039.sed s.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/040.sed s.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/041.wc.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/042.sort.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/043.[].sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/044.[] &amp;&amp;.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/044.[] sanyuan.sh" charset="GBK" />
   </component>
 </project>
