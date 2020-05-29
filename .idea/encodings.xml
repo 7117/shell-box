@@ -13,5 +13,10 @@
     <file url="file://$PROJECT_DIR$/026.awk.sh" charset="GBK" />
     <file url="file://$PROJECT_DIR$/027.awk begin.sh" charset="GBK" />
     <file url="file://$PROJECT_DIR$/028.awk end.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/029.awk $.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/029.awk preg.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/030.awk preg.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/031.awk FS.sh" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/032.awk preg.sh" charset="GBK" />
   </component>
 </project>
