@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/054.exit.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/055.break.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/056.continue.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/99尚硅谷-云计算-Linux系统管理-shell基础.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/99尚硅谷-云计算-Linux系统管理-shell编程.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590726008037</updated>
-      <workItem from="1590726011491" duration="15904000" />
+      <workItem from="1590726011491" duration="16687000" />
     </task>
     <task id="LOCAL-00001" summary="sed">
       <created>1590751943530</created>
@@ -108,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590766319370</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&amp;&amp;">
+      <created>1590766642533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590766642533</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&amp;&amp;">
+      <created>1590766782794</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590766782794</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
