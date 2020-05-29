@@ -1,0 +1,1 @@
+grep "\.$" ./art.txt
