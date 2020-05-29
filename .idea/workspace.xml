@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/029.awk $.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/029.awk preg.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030.awk preg.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031.awk FS.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031.awk preg.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/033.awk preg.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/034.awk if.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/032.awk preg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/032.awk out word.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590726008037</updated>
-      <workItem from="1590726011491" duration="5754000" />
+      <workItem from="1590726011491" duration="6510000" />
     </task>
     <servers />
   </component>
