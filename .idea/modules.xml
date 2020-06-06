@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mongoDBCollection/.idea/mongoDBCollection.iml" filepath="$PROJECT_DIR$/../mongoDBCollection/.idea/mongoDBCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../phpCollection/.idea/phpCollection.iml" filepath="$PROJECT_DIR$/../phpCollection/.idea/phpCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/shellCollection.iml" filepath="$PROJECT_DIR$/.idea/shellCollection.iml" />
     </modules>

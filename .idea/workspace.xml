@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../phpCollection/PHPPromiss/1.Promise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phpCollection/PHPPromiss/2.Promise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phpCollection/PHPPromiss/3.Promise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phpCollection/PHPSort/test/1.kuaisu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../phpCollection/PHPSort/test/2.zh.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../phpCollection/PHPChatroom/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpCollection/PHPChatroom/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../phpCollection/PHPSort/2.zhebanchazhao.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpCollection/PHPSort/2.zhebanchazhao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../phpCollection/PHPTest/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpCollection/PHPTest/1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../phpCollection/PHPTest/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpCollection/PHPTest/2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongoDBCollection/.idea/mongoDBCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongoDBCollection/1.insert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongoDBCollection/2.find.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shellCollection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shellCollection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +22,22 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../phpCollection" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mongoDBCollection" />
   </component>
   <component name="ProjectId" id="1cXbCnjhdVkm09hKduDjFRDwa48" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,10 +47,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phpCollection/PHPPromiss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mongoDBCollection" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy\PHPTutorial\WWW\mongoDBCollection" />
       <recent name="D:\phpstudy\PHPTutorial\WWW\phpCollection\PHPPromiss" />
       <recent name="D:\phpstudy\PHPTutorial\WWW\phpCollection\PHPSort\test" />
       <recent name="D:\phpstudy\PHPTutorial\WWW\shellCollection" />
@@ -70,6 +84,12 @@
       <workItem from="1590981753636" duration="3494000" />
       <workItem from="1591109177755" duration="1668000" />
       <workItem from="1591170278277" duration="1967000" />
+      <workItem from="1591184151259" duration="1503000" />
+      <workItem from="1591280878085" duration="227000" />
+      <workItem from="1591350450820" duration="3000" />
+      <workItem from="1591350504166" duration="6572000" />
+      <workItem from="1591433772665" duration="231000" />
+      <workItem from="1591434020201" duration="419000" />
     </task>
     <task id="LOCAL-00001" summary="sed">
       <created>1590751943530</created>
@@ -134,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590766782794</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&amp;&amp;">
+      <created>1591184188417</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591184188417</updated>
+    </task>
+    <task id="LOCAL-00011" summary="code">
+      <created>1591184245231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591184245231</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sed" />
     <MESSAGE value="&amp;&amp;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&amp;&amp;" />
+    <MESSAGE value="code" />
+    <option name="LAST_COMMIT_MESSAGE" value="code" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
