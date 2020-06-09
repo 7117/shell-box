@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="phpCollection" />
     <orderEntry type="module" module-name="mongoDBCollection" />
+    <orderEntry type="module" module-name="mongoDBCollection" />
   </component>
 </module>

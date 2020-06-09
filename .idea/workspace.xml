@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709907b-d26d-428d-b5c8-b8e74f83fe6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mongoDBCollection/.idea/mongoDBCollection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mongoDBCollection/1.insert.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mongoDBCollection/2.find.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shellCollection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shellCollection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +83,8 @@
       <workItem from="1591350450820" duration="3000" />
       <workItem from="1591350504166" duration="6572000" />
       <workItem from="1591433772665" duration="231000" />
-      <workItem from="1591434020201" duration="419000" />
+      <workItem from="1591434020201" duration="9293000" />
+      <workItem from="1591448106283" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="sed">
       <created>1590751943530</created>
@@ -168,7 +163,49 @@
       <option name="project" value="LOCAL" />
       <updated>1591184245231</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="code">
+      <created>1591434475652</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591434475652</updated>
+    </task>
+    <task id="LOCAL-00013" summary="code">
+      <created>1591436258112</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591436258112</updated>
+    </task>
+    <task id="LOCAL-00014" summary="code">
+      <created>1591436699987</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591436699987</updated>
+    </task>
+    <task id="LOCAL-00015" summary="code">
+      <created>1591441283624</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591441283624</updated>
+    </task>
+    <task id="LOCAL-00016" summary="code">
+      <created>1591441317505</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591441317505</updated>
+    </task>
+    <task id="LOCAL-00017" summary="code">
+      <created>1591446027486</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591446027486</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
